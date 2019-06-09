@@ -13,3 +13,5 @@ Enter into the Scripts directory and run:
 ```
 node buid.js
 ```
+
+An index.html will be created in Scripts/build directory.
