@@ -1,6 +1,6 @@
 # Interview Questions
 
-This repository contains solutions for interview questions in C++. Most of these questions are from interviewbit.com.
+This repository contains my solutions for interview questions in C++. Most of these questions are from interviewbit.com.
 
 With the solutions you will also find the time and space complexity along with an explanation.
 
