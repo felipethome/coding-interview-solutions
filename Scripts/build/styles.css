@@ -1,0 +1,45 @@
+body {
+  background: rgb(253, 246, 227);
+  // background-image: url(./highlight/brown-papersq.png);
+}
+
+h1, h2, h3 {
+  font-family: Menlo, monospace;
+  column-span: all;
+}
+
+hr {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a:visited {
+  color: rgb(0, 0, 238);
+}
+
+.container {
+  margin: 0 auto;
+  // width: 650px;
+  width: 675px;
+}
+
+.custom-comments {
+  font-family: Menlo, monospace;
+  font-size: 10pt;
+}
+
+.custom-code {
+  font-family: Menlo, monospace;
+  font-size: 10pt;
+}
+
+.summary-container {
+  font-family: Menlo, monospace;
+  font-size: 10pt;
+  column-count: 2;
+  column-gap: 40px;
+}
