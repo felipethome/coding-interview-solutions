@@ -16,7 +16,7 @@ const allowedExts = new Set([
   '.cpp',
 ]);
 
-const buildFile = './build/index.html'
+const buildFile = '../docs/index.html'
 
 const dirs = fs.readdirSync(rootDir).filter((dir) => {
   const stats = fs.statSync(path.join(rootDir, dir));
