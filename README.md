@@ -11,7 +11,7 @@ With the solutions you will also find the time and space complexity along with a
 Enter into the Scripts directory and run:
 
 ```
-node buid.js
+cd scripts && node buid.js
 ```
 
-An index.html will be created in Scripts/build directory.
+An index.html file will be created in scripts/build directory.
