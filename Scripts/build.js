@@ -34,9 +34,6 @@ dirs.forEach((dir) => {
   });
 });
 
-
-// fs.unlinkSync(buildFile);
-
 let content = "";
 filePaths.forEach((filePath) => {
   const lines = fs.readFileSync(filePath).toString().split('\n');
