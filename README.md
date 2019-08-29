@@ -1,4 +1,4 @@
-# Interview Questions
+# Coding Interview Solutions
 
 This repository contains my solutions for interview questions in C++. Most of these questions are from interviewbit.com.
 

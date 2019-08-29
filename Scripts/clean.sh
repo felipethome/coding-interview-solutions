@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Remove executable files.
-find ../c -type f -not -iname "*.*" -exec rm '{}' \;
+find ../src/cpp -type f -not -iname "*.*" -exec rm '{}' \;
 
 # Remove build files.
 rm -f ./build/build.txt

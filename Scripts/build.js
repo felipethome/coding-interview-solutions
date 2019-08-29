@@ -3,7 +3,7 @@ const path = require('path');
 const util = require('util');
 const HTML = require('./HTML');
 
-const rootDir = '../c';
+const rootDir = '../src/cpp';
 
 const ignoredDirs = new Set([]);
 
