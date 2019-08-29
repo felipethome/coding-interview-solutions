@@ -14,7 +14,7 @@ class HTML {
       <html lang="en">
       <head>
         <meta charset="UTF-8">
-        <title>Felipe Thome - Algorithms</title>
+        <title>Coding Interview Solutions - Felipe Thome</title>
         <link rel="stylesheet" href="${MAIN_STYLE}">
         <link rel="stylesheet" href="${CODE_STYLE}">
       </head>
