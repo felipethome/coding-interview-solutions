@@ -1,6 +1,5 @@
 body {
   background: rgb(253, 246, 227);
-  /* background-image: url(./highlight/brown-papersq.png); */
 }
 
 h1, h2, h3 {
@@ -17,7 +16,7 @@ ul {
   list-style-type: none;
 }
 
-a:visited {
+a, a:visited {
   color: rgb(0, 0, 238);
 }
 

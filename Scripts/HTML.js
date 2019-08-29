@@ -21,7 +21,7 @@ class HTML {
       <body>
         <div class="container">
           <h1>Algorithm Problems</h1>
-          <h3>Solutions by Felipe Thomé.</h3>
+          <h3>Solutions by Felipe Thomé. <a href="https://github.com/felipethome/coding-interview-solutions">GitHub</a></h3>
           <h3>The problems descriptions are from interviewbit.com.</h3>
     `);
   }
