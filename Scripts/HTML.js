@@ -3,7 +3,6 @@ const Extract = require('./Extract');
 
 const MAIN_STYLE = "styles.css";
 const CODE_STYLE = "highlight/solarized-light.css";
-// const CODE_STYLE = "highlight/brown-paper.css";
 const HIGHLIGHT =  "highlight/highlight.pack.js";
 
 const TOC = {};
@@ -24,7 +23,7 @@ class HTML {
         '<div class="container">' +
           '<h1>Algorithm Problems</h1>' +
           '<h3>Solutions by Felipe Thomé.</h3>' +
-          '<h3>Almost all of these probems came from interviewbit.com.</h3>'
+          '<h3>The problems descriptions are from interviewbit.com.</h3>'
     );
   }
 
