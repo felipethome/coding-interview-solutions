@@ -6,7 +6,7 @@ With the solutions you will also find the time and space complexity along with a
 
 **Note:** The explanations were not revised and they were intended to help me remember how I got to the solution.
 
-[Solutions](felipethome.github.io/coding-interview-solutions)
+[Solutions](https://felipethome.github.io/coding-interview-solutions)
 
 ## Build
 
